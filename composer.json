@@ -1,0 +1,19 @@
+{
+    "name": "neznajki/json-rpc-server-contracts",
+    "description": "Storing common contracts for json rpc server",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maris Locmelis",
+            "email": "neznajki@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JsonRpcServerContracts\\": "src"
+        }
+    }
+}
