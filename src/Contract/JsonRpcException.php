@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JsonRpcServerContracts\Contract;
+namespace JsonRpcServerCommon\Contract;
 
 
 use Throwable;
